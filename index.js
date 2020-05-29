@@ -1,3 +1,3 @@
-let num1 = ;
-let num2 = ;
+let num1 = 2;
+let num2 = 31;
 let multiply = num1 * num2;
