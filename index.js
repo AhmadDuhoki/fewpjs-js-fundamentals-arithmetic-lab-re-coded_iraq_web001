@@ -1,2 +1,2 @@
-
-// Write your code here
+num
+let multiply = num1 * num2;
