@@ -4,4 +4,6 @@ let multiply = num1 * num2;
 
 let random = Math.floor(Math.random() * 10) + 1;
 
-let mod = 
+let mod = 16%6;
+
+let max = Math.max(1,12,6,13,14,12,20);
